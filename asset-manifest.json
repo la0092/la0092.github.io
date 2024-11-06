@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c26a5fe5.css",
+    "main.js": "/static/js/main.b1083769.js",
+    "static/media/portfolio.png": "/static/media/portfolio.e177a342f13fd5f639a8.png",
+    "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
+    "static/media/ohiohealth.png": "/static/media/ohiohealth.ce8061a5478a779dba79.png",
+    "static/media/ohioapp.png": "/static/media/ohioapp.f194502218c9b7b1db71.png",
+    "static/media/spark.png": "/static/media/spark.e63c1c1eafa20db3101f.png",
+    "static/media/azure.png": "/static/media/azure.4aeddb1d169e28dd0a95.png",
+    "static/media/pandora.png": "/static/media/pandora.55d7a1895b2e908c8c54.png",
+    "static/media/aws.png": "/static/media/aws.6fc6e83c55f0431a3420.png",
+    "static/media/bswapp.png": "/static/media/bswapp.9ff8990ed7ca8e892046.png",
+    "static/media/gcp.png": "/static/media/gcp.c64bd55a9f17f74e7a6b.png",
+    "static/media/bswhealth.png": "/static/media/bswhealth.f84c02fc9c2ee8080323.png",
+    "static/media/azurecloudexams.png": "/static/media/azurecloudexams.72a37700f87527ed926f.png",
+    "static/media/databricks.png": "/static/media/databricks.4322dd47f32968e9579d.png",
+    "static/media/csharp.png": "/static/media/csharp.5a45dfbe7dbab84acddf.png",
+    "static/media/cc.png": "/static/media/cc.ee9efd77d484d1ff7a7e.png",
+    "static/media/django.png": "/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/python.png": "/static/media/python.f1a07429fcf04073a41e.png",
+    "static/media/nodejs.png": "/static/media/nodejs.09a558a790ef641b1f67.png",
+    "static/media/globe2.svg": "/static/media/globe2.49f76029015fad74a47a3551b2ae34fa.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.049a66df24a80bf61f1a560bf8be92f2.svg",
+    "main.c26a5fe5.css.map": "/static/css/main.c26a5fe5.css.map",
+    "main.b1083769.js.map": "/static/js/main.b1083769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26a5fe5.css",
+    "static/js/main.b1083769.js"
+  ]
+}
